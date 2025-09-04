@@ -108,9 +108,6 @@ python3 tarchiver.py <command> <archive> [files] [options]
    ```bash
    python3 tarchiver.py extract secret.7z /path/to/extract -p mypassword
    ```
-## Contributing
-
-Contributions to TArchiver are welcome! If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request on the [GitHub repository](https://github.com/linuxfanboy4/tarchiver).
 
 ## License
 
